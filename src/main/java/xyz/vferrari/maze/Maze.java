@@ -34,7 +34,7 @@ public class Maze {
 
     public String solve() {
         String output = "";
-
+        System.out.println("hola");
         return output;
     }
 }
